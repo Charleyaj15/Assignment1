@@ -1,6 +1,6 @@
 # Assignment1
 <ul>
-Student name: Charle Yang 
-Student number: s3897550 
-Student email: s3897550@student.rmit.edu.au
+  <p>Student name: Charle Yang</p>
+  <p>Student number: s3897550 </p>
+  <p>Student email: s3897550@student.rmit.edu.au</p>
 </ul>
